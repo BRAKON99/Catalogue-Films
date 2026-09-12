@@ -1,0 +1,16 @@
+.login {
+	display: flex;
+	gap: 10px;
+}
+
+
+.auth-title {
+	padding-bottom: 40px;
+	margin: 0;
+	color: #EBEEF5;
+	font-size: 52px;
+}
+
+.login-wrapper {
+	margin-top: 50px;
+}

@@ -1,0 +1,19 @@
+.body {
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+	text-align: start;
+	max-width: 588px;
+}
+
+.body-title {
+	margin: 0;
+	color: #EBEEF5;
+	font-size: 52px;
+}
+
+.body-text {
+	margin: 0;
+	font-size: 16px;
+	color: #8E95A9;
+}
